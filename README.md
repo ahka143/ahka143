@@ -1,4 +1,4 @@
-### Hi there 👋
+![snake gif] (https://github.com/ahka143/ahka143/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **ahka143/ahka143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
